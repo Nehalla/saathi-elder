@@ -1,0 +1,87 @@
+[
+  {
+    "id": "rem-1792049058901",
+    "type": "medication",
+    "title": "Multivitamin Syrup",
+    "time": "08:30 AM",
+    "meal": "After breakfast",
+    "date": "",
+    "location": "",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-10-15T07:24:18.901Z"
+  },
+  {
+    "id": "rem-1792048995813",
+    "type": "medication",
+    "title": "Metformin",
+    "time": "9 AM",
+    "meal": "After meal / ଖାଇବା ପରେ / खाने के बाद",
+    "date": "",
+    "location": "",
+    "notes": "Added via Saathi chat",
+    "completed": false,
+    "createdAt": "2026-10-15T07:23:15.813Z"
+  },
+  {
+    "id": "rem-1792048863720",
+    "type": "medication",
+    "title": "ମେଟଫର୍ମିନ୍",
+    "time": "08:00 AM",
+    "meal": "",
+    "date": "",
+    "location": "",
+    "notes": "Added via Saathi chat",
+    "completed": false,
+    "createdAt": "2026-10-15T07:21:03.720Z"
+  },
+  {
+    "id": "rem-1792048801851",
+    "type": "medication",
+    "title": "Paracetamol",
+    "time": "8 AM",
+    "meal": "After meal / ଖାଇବା ପରେ / खाने के बाद",
+    "date": "",
+    "location": "",
+    "notes": "Added via Saathi chat",
+    "completed": false,
+    "createdAt": "2026-10-15T07:20:01.851Z"
+  },
+  {
+    "id": "rem-1",
+    "type": "medication",
+    "title": "Morning BP Tablet (Telmisartan 40mg)",
+    "title_or": "ସକାଳ ରକ୍ତଚାପ ଔଷଧ (Telmisartan 40mg)",
+    "title_hi": "सुबह की बीपी की दवाई (Telmisartan 40mg)",
+    "time": "08:30 AM",
+    "meal": "After breakfast / ଜଳଖିଆ ପରେ / नाश्ते के बाद",
+    "notes": "Take with a full glass of warm water",
+    "completed": true,
+    "createdAt": "2026-10-15T08:00:00.000Z"
+  },
+  {
+    "id": "rem-2",
+    "type": "medication",
+    "title": "Calcium & Vitamin D3 Tablet",
+    "title_or": "କ୍ୟାଲସିୟମ ଓ ଭିଟାମିନ ଡି୩ ବଟିକା",
+    "title_hi": "कैल्शियम और विटामिन डी3 गोली",
+    "time": "01:30 PM",
+    "meal": "After lunch / ମଧ୍ୟାହ୍ନ ଭୋଜନ ପରେ / दोपहर के खाने के बाद",
+    "notes": "Prescribed by Dr. Mishra",
+    "completed": false,
+    "createdAt": "2026-10-15T08:00:00.000Z"
+  },
+  {
+    "id": "rem-3",
+    "type": "appointment",
+    "title": "Dr. S. Mohanty (Cardiologist Checkup)",
+    "title_or": "ଡାକ୍ତର ଏସ. ମହାନ୍ତି (ହୃଦରୋଗ ବିଶେଷଜ୍ଞ ପରାମର୍ଶ)",
+    "title_hi": "डॉ. एस. मोहंती (कार्डियोलॉजिस्ट चेकअप)",
+    "time": "05:00 PM",
+    "date": "2026-10-16",
+    "location": "Care Hospital, Unit 4, Bhubaneswar",
+    "notes": "Carry previous blood test reports and prescription file",
+    "completed": false,
+    "createdAt": "2026-10-15T08:00:00.000Z"
+  }
+]

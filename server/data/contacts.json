@@ -1,0 +1,42 @@
+[
+  {
+    "id": "c-1",
+    "name": "Rajesh (Son)",
+    "name_or": "ରାଜେଶ (ପୁଅ)",
+    "name_hi": "राजेश (बेटा)",
+    "relationship": "Primary Caregiver / ମୁଖ୍ୟ ଯତ୍ନକାରୀ",
+    "phone": "+91 98610 12345",
+    "isPrimary": true,
+    "notifyOnSOS": true
+  },
+  {
+    "id": "c-2",
+    "name": "Dr. S. Mohanty",
+    "name_or": "ଡାକ୍ତର ଏସ. ମହାନ୍ତି",
+    "name_hi": "डॉ. एस. मोहंती",
+    "relationship": "Family Doctor / ପାରିବାରିକ ଚିକିତ୍ସକ",
+    "phone": "+91 94370 54321",
+    "isPrimary": false,
+    "notifyOnSOS": false
+  },
+  {
+    "id": "c-3",
+    "name": "Sunita (Daughter)",
+    "name_or": "ସୁନୀତା (ଝିଅ)",
+    "name_hi": "सुनीता (बेटी)",
+    "relationship": "Emergency Contact / ଜରୁରୀ ଯୋଗାଯୋଗ",
+    "phone": "+91 98611 98765",
+    "isPrimary": false,
+    "notifyOnSOS": true
+  },
+  {
+    "id": "c-4",
+    "name": "Emergency Medical Helpline",
+    "name_or": "ଜରୁରୀକାଳୀନ ଆମ୍ବୁଲାନ୍ସ ସେବା (୧୧୨ / ୧୦୮)",
+    "name_hi": "आपातकालीन एम्बुलेंस (112 / 108)",
+    "relationship": "Government Emergency Dispatch",
+    "phone": "112",
+    "isPrimary": false,
+    "notifyOnSOS": false
+  }
+]
